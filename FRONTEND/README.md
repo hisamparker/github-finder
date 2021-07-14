@@ -1,3 +1,35 @@
+### Learnings
+- render is a lifecycle method 😶‍🌫️
+- component level state = state that is scoped to the component
+- with CRA Your project can consume variables declared in your environment as if they were declared locally in your JS files. By default you will have NODE_ENV defined for you, and any other environment variables starting with REACT_APP_.
+https://create-react-app.dev/docs/adding-custom-environment-variables/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
